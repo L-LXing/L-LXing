@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/L-LXing">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=883a4e&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Jasmin" alt="Hello! I&#39;m Jasmin" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ea6c6c&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Jasmin" alt="Hello! I&#39;m Jasmin" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=d07676&center=true&vCenter=true&width=900&height=44&lines=Curious%20about%20data%2C%20committed%20to%20clean%20development%2C%20driven%20by%20patterns" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2fb3f7&center=true&vCenter=true&width=900&height=44&lines=Curious%20about%20data%2C%20committed%20to%20clean%20development%2C%20driven%20by%20patterns" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
